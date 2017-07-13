@@ -1,0 +1,32 @@
+{
+  "name": "test-immutable",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "bugs": {
+    "url": "",
+    "email": "dragmove@gmail.com"
+  },
+  "main": "",
+  "author": "Hyun-Seok.Kim",
+  "license": {
+    "type": "MIT",
+    "url": "https://opensource.org/licenses/mit-license.php"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.23.1",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^6.3.2",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "extend": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^4.0.0",
+    "immutable": "^3.8.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
